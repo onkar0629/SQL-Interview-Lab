@@ -1,2 +1,11 @@
-# SQL-Interview-Lab
-SQL Interview Lab – A comprehensive collection of SQL interview questions, business case studies, schema designs, sample datasets, optimized solutions, and interview notes for Data Engineering interviews.
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="120"/>
+
+# MySQL_Data_Engineer_Challenge
+
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge)
+![Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-success?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Data%20Engineering-orange?style=for-the-badge)
+
+</div>
