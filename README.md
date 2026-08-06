@@ -9,3 +9,16 @@
 ![Focus](https://img.shields.io/badge/Focus-Data%20Engineering-orange?style=for-the-badge)
 
 </div>
+
+
+
+
+
+
+# temp file cretion prompt
+
+for i in $(seq -f "%03g" 4 30); do
+mkdir -p "Question_$i"
+touch "Question_$i/README.md"
+touch "Question_$i/Question_$i.sql"
+done
