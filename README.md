@@ -1,4 +1,4 @@
-# SQL Interview Lab
+# SQL Interview Practice
 
 > [!NOTE]
 >
